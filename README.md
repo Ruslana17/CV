@@ -2,4 +2,4 @@
 
 My CV
 ---
-[web-page] (ruslana17.github.io/hw/)
+[web-page] (https://ruslana17.github.io/hw/)
